@@ -20,7 +20,7 @@ Python 3.11 (Apenas a sua biblioteca padrão)
 
 Após rodar o código em sua IDE favorita (neste caso estarei usando IDLE Python), irá aparecer um menu com as possíveis opções para calcular uma matriz :
 
-![Menu](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/06a8f627-e6a1-4f25-984c-0ac4e6007a10)
+![Menu](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/530753a6-2766-4d26-b217-32136f26f8de)
 
   1. Adicionar matriz
 
@@ -28,27 +28,27 @@ Após rodar o código em sua IDE favorita (neste caso estarei usando IDLE Python
 1.2 Digitamos a dimensão da matriz (Neste caso, 3x3)
 1.3 Digitamos o elemento da linha 1,2 e 3
 
-![1 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/a4feed97-f949-40ae-afc8-438053edc931)
+![1 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/2be7b9ad-c7f2-4b6e-a597-536e9456a13f)
 
   2. Matriz identidade
 
 2.1 Digitamos o tamanho da matriz identidade (N x N)
 após este passo, será criada uma matriz "identidadeN", sendo N o número digitado
 
-![2 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/4ceacb16-d17a-4e65-9edb-46db20d3fe08)
+![2 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/885f0305-8a16-4647-8122-be975191a2c6)
  
   3. Remover matriz
 
 3.1 Digitamos o nome da matriz a ser removida
 em seguida esta é removida da lista de matrizes armazenada pelo sistema.
 
-![3 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/f1357590-7a9c-4e97-89f7-1c171a7af649)
+![3 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/3afc67de-bd83-4bcb-be14-f0f5016c4e09)
 
   4. Imprimir matrizes
 
 4.1 Mostra para o usuário todas as matrizes existentes criadas pelo usuário neste momento
 
-![4 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/9ae63e97-be1b-4957-8261-4f7c82fb691a)
+![4 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/8575b52c-abc0-49bf-9fe2-a2f2fd8c0a71)
 
   5. Somar matrizes
 
@@ -56,7 +56,7 @@ em seguida esta é removida da lista de matrizes armazenada pelo sistema.
 5.2 digite o nome da segunda matriz
 A soma das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da soma para o usuário
 
-![5 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/5eb5d50a-4193-4004-828c-b6bbf0ce4374)
+![5 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/cbe382d4-b009-4128-8f9d-94052fd9aeb2)
 
   6. Subtrair matrizes
 
@@ -64,7 +64,7 @@ A soma das matrizes é guardada na lista de matrizes, e quando usado o comando "
 6.2 digite o nome da segunda matriz
 A subtração das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da subtração para o usuário
 
-![6 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/b7a66633-0f20-45cd-9bde-177357140b7a)
+![6 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/e7c6a968-15ed-43af-9bfd-f40bad6b6f40)
  
   7. Multiplicar a matriz por um escalar
 
@@ -72,7 +72,7 @@ A subtração das matrizes é guardada na lista de matrizes, e quando usado o co
 7.2 Digite o escalar
 A multiplicação por escalar é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da multiplicação para o usuário
 
-![7 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/7c523203-2ad2-4195-96b3-ab20fa9244ee)
+![7 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/4c98a0ff-0df6-4e45-9582-03aa4ab5bb31)
 
   8. Multiplicar matrizes
 
@@ -80,13 +80,13 @@ A multiplicação por escalar é guardada na lista de matrizes, e quando usado o
 8.2 Digite a matriz que deseja multiplicar
 A multiplicação das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da multiplicação para o usuário
 
-![8 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/c26ab460-1aaf-4849-8d6d-f510cfb44764)
+![8 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/2646eac3-1ee3-464b-8548-aa2dd44fc2ac)
   
   9. Tipo da matriz
 
 Retorna se a matriz é quadrada, triangular, diagonal ou uma matriz genérica.
 
-![9 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/cd00bcaf-621a-4e1a-bf69-fe6718a5536a)
+![9 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/24c6a3b9-a0f9-469f-8f98-02b37cca1fc8)
 
   0. Encerra o código da calculadora de matrizes
 
@@ -94,4 +94,4 @@ Encerra o programa.
 
 #Todas as contas realizadas acima aparecem quando utilizamos o comando "Imprimir"
 
-![10 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/f80b8fb8-922d-4df6-bd04-4e43c9153823)
+![10 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/613a22cb-3a07-48f8-bbf1-e9f3703b96c0)
