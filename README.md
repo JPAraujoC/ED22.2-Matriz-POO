@@ -92,6 +92,6 @@ Retorna se a matriz é quadrada, triangular, diagonal ou uma matriz genérica.
 
 Encerra o programa.
 
-Todas as contas realizadas acima aparecem quando utilizamos o comando "Imprimir"
+#Todas as contas realizadas acima aparecem quando utilizamos o comando "Imprimir"
 
 ![10 -](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/f80b8fb8-922d-4df6-bd04-4e43c9153823)
