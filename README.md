@@ -28,7 +28,7 @@ Após rodar o código em sua IDE favorita (neste caso estarei usando IDLE Python
 1.2 Digitamos a dimensão da matriz (Neste caso, 3x3)
 1.3 Digitamos o elemento da linha 1,2 e 3
 
-[Imagem]
+![Menu](https://github.com/JPAraujoC/ED22.2-Matriz-POO/assets/137342128/06a8f627-e6a1-4f25-984c-0ac4e6007a10)
 
   2. Matriz identidade
 
