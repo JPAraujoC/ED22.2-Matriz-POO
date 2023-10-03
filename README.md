@@ -22,58 +22,58 @@ Após rodar o código em sua IDE favorita (neste caso estarei usando IDLE Python
 
 [Imagem]
 
-1. Adicionar matriz
+  1. Adicionar matriz
 
-  1.1 colocamos o nome da matriz que queremos criar
-  1.2 Digitamos a dimensão da matriz (Neste caso, 3x3)
-  1.3 Digitamos o elemento da linha 1,2 e 3
+1.1 colocamos o nome da matriz que queremos criar
+1.2 Digitamos a dimensão da matriz (Neste caso, 3x3)
+1.3 Digitamos o elemento da linha 1,2 e 3
 
 [Imagem]
 
-2. Matriz identidade
+  2. Matriz identidade
 
-  2.1 Digitamos o tamanho da matriz identidade (N x N)
+2.1 Digitamos o tamanho da matriz identidade (N x N)
 após este passo, será criada uma matriz "identidadeN", sendo N o número digitado
 
 [Imagem]
  
-3. Remover matriz
+  3. Remover matriz
 
-  3.1 Digitamos o nome da matriz a ser removida
+3.1 Digitamos o nome da matriz a ser removida
 em seguida esta é removida da lista de matrizes armazenada pelo sistema.
 
-4. Imprimir matrizes
+  4. Imprimir matrizes
 
-  4.1 Mostra para o usuário todas as matrizes existentes criadas pelo usuário neste momento
+4.1 Mostra para o usuário todas as matrizes existentes criadas pelo usuário neste momento
 
-5. Somar matrizes
+  5. Somar matrizes
 
-  5.1 digite o nome da primeira matriz
-  5.2 digite o nome da segunda matriz
+5.1 digite o nome da primeira matriz
+5.2 digite o nome da segunda matriz
 A soma das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da soma para o usuário
 
-6. Subtrair matrizes
+  6. Subtrair matrizes
 
-  6.1 digite o nome da primeira matriz
-  6.2 digite o nome da segunda matriz
+6.1 digite o nome da primeira matriz
+6.2 digite o nome da segunda matriz
 A subtração das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da subtração para o usuário
  
-7. Multiplicar a matriz por um escalar
+  7. Multiplicar a matriz por um escalar
 
-  7.1 Digite a matriz que deseja multiplicar por um escalar
-  7.2 Digite o escalar
+7.1 Digite a matriz que deseja multiplicar por um escalar
+7.2 Digite o escalar
 A multiplicação por escalar é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da multiplicação para o usuário
 
-8. Multiplicar matrizes
+  8. Multiplicar matrizes
 
-  8.1 Digite a matriz que deseja multiplicar
-  8.2 Digite a matriz que deseja multiplicar
+8.1 Digite a matriz que deseja multiplicar
+8.2 Digite a matriz que deseja multiplicar
 A multiplicação das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da multiplicação para o usuário
   
-9. Tipo da matriz
+  9. Tipo da matriz
 
 Retorna se a matriz é quadrada, triangular, diagonal ou uma matriz genérica.
 
-0. Encerra o código da calculadora de matrizes
+  0. Encerra o código da calculadora de matrizes
 
 Encerra o programa.
