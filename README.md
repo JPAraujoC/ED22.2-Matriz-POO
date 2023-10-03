@@ -54,8 +54,8 @@ A soma das matrizes é guardada na lista de matrizes, e quando usado o comando "
 
 6. Subtrair matrizes
 
-    6.1 digite o nome da primeira matriz
-    6.2 digite o nome da segunda matriz
+  6.1 digite o nome da primeira matriz
+  6.2 digite o nome da segunda matriz
 A subtração das matrizes é guardada na lista de matrizes, e quando usado o comando "imprimir matrizes", é demonstrado o resultado da subtração para o usuário
  
 7. Multiplicar a matriz por um escalar
