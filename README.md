@@ -5,12 +5,12 @@ Calculadora Matricial em POO
 
 Criar uma Calculadora Matricial , que encontre :
 
-Soma e subtração matricial: C = A + B e C = A - B
-Multiplicação por escalar: C = aA, onde a é um número real dado
-Multiplicação Matricial: C = A x B
-Transposição de uma Matriz
-Se a matriz for quadrada, o TRAÇO da matriz (igual à soma dos elementos da sua diagonal principal)
-Se a matriz for triangular, o DETERMINANTE da matriz (igual ao produto dos elementos da sua diagonal principal)
+Soma e subtração matricial: C = A + B e C = A - B <br/>
+Multiplicação por escalar: C = aA, onde a é um número real dado <br/>
+Multiplicação Matricial: C = A x B <br/>
+Transposição de uma Matriz <br/>
+Se a matriz for quadrada, o TRAÇO da matriz (igual à soma dos elementos da sua diagonal principal) <br/>
+Se a matriz for triangular, o DETERMINANTE da matriz (igual ao produto dos elementos da sua diagonal principal) <br/>
 
 # Linguagem utilizada
 
