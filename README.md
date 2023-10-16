@@ -1,4 +1,4 @@
-# Estrutura de Dados - UFRJ 22.2 - Matriz POO
+# Estrutura de Dados - UFRJ 23.2 - Matriz POO
 Calculadora Matricial em POO
 
 # Objetivo
